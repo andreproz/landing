@@ -10,16 +10,6 @@ body {
   color: #323232;
 }
 
-.abstract {
-  padding: 0 0.7em;
-}
-
-.abstract:after {
-  content: '';
-  display: block;
-  clear: both;
-}
-
 .image {
   width: 200px;
   margin-bottom: 25px;
@@ -28,28 +18,6 @@ body {
 .feature-image {
   width: 300px;
   margin-bottom: 5px;
-}
-
-.image-block-left {
-  width: 20%;
-  min-width: 110px;
-  float: left;
-  margin-bottom: 15px;
-  margin-right: 15px;
-}
-
-.image-block-right {
-  width: 20%;
-  min-width: 110px;
-  float: right;
-  margin-bottom: 15px;
-  margin-left: 15px;
-}
-
-.image-caption {
-  text-align: center;
-  font-size: 0.8em;
-  color: #60646D;
 }
 
 .wrapper {
@@ -151,48 +119,6 @@ body {
   text-decoration: none;
   color: #323232;
   font-weight: bold;
-}
-
-.footer {
-  flex-grow: 0;
-  flex-shrink: 0;
-  height: 90px;
-  background: #377089;
-}
-
-.column-60 {
-  width: 60%;
-  float: left;
-}
-
-.column-40 {
-  width: 40%;
-  float: left;
-}
-
-.content:after {
-  content: '';
-  display: block;
-  clear: both;
-}
-
-.main-title {
-  text-align: center;
-  font-size: 2.5em;
-  margin-top: 0.6em;
-  margin-bottom: 0.6em;
-}
-
-.title-small {
-  font-size: 1.2em;
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-  margin-left: 0.1em;
-}
-
-.content-text {
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
 
 .buy-form {
