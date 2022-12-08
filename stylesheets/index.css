@@ -26,6 +26,12 @@ body {
 }
 
 .intro {
+  background-color: rgba(0, 0, 0, 0);
+  background-image: linear-gradient(rgba(36, 126, 177, 0.1), rgba(36, 126, 177, 0.5) 95%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0, center top;
   display: flex;
   flex-direction: column;
   justify-content: center;
