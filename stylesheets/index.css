@@ -27,7 +27,7 @@ body {
 
 .intro {
   background-color: rgba(0, 0, 0, 0);
-  background-image: linear-gradient(rgba(36, 126, 177, 0.1), rgba(36, 126, 177, 0.5)), url("intro.jpg");
+  background-image: linear-gradient(rgba(36, 126, 177, 0.1), rgba(36, 126, 177, 0.5));
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll, fixed;
