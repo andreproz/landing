@@ -26,12 +26,7 @@ body {
 }
 
 .intro {
-  background-color: rgba(0, 0, 0, 0);
-  background-image: linear-gradient(rgba(36, 126, 178, 0), rgba(36, 126, 178, 0.5) 91%);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: scroll, fixed;
-  background-position: 0 0, center top;
+  background-color: rgba(0, 0, 0, 0.5);
   display: flex;
   flex-direction: column;
   justify-content: center;
